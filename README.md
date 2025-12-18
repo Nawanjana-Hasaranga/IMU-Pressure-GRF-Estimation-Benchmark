@@ -16,7 +16,7 @@ Using a multimodal sensor fusion approach (IMU + Pressure), I achieved the follo
 
 ## Visual Comparisons
 ### LSTM Prediction (Deep Learning)
-![LSTM Result](download.png)
+![LSTM Result](lstm_fz_prediction.png)
 
 ### Random Forest Prediction (Baseline)
 ![Random Forest Result](rf_result.png)
