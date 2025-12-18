@@ -40,4 +40,3 @@ The results demonstrate that while the Attention mechanism in Zhang et al. (2025
 
 ## References
 * Zhang, D., et al. (2025). *Estimation of three-dimensional ground reaction forces using low-cost smart insoles*. Intelligent Sports and Health.
-
