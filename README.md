@@ -20,3 +20,4 @@ Using a multimodal sensor fusion approach (IMU + Pressure), I achieved the follo
 
 ### Random Forest Prediction (Baseline)
 ![Random Forest Result](rf_result.png)
+
